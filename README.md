@@ -31,7 +31,7 @@ Los libros guardados se mantienen en memoria durante la sesión actual; al recar
 ## Despliegue
 
 - **Aplicación en producción:** [Abrir Entre líneas](https://v0-project-weld-sigma-60.vercel.app)
-- **Repositorio público:** [MarvinArtiga/entre-lineas-vibe-coding](https://github.com/MarvinArtiga/entre-lineas-vibe-coding)
+
 
 El despliegue está publicado en Vercel. No se necesitan variables de entorno.
 
